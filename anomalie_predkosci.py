@@ -1,3 +1,4 @@
+
 from kafka import KafkaConsumer
 from collections import defaultdict, deque
 from datetime import datetime, timedelta
